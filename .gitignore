@@ -1,0 +1,8 @@
+Large_Data/
+*.obj
+*.d
+*.map
+*.out
+*.hex
+Debug/
+Release/
